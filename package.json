@@ -9,7 +9,7 @@
   "private": false,
   "scripts": {
     "precommit": "lint-staged",
-    "storybook": "start-storybook -p 9001 -c .storybook",
+    "storybook": "start-storybook -p 8080 -c .storybook",
     "start": "webpack --watch --config config/webpack.config.js",
     "build": "webpack -p --config config/webpack.config.js",
     "lint": "eslint src/**; exit 0",
