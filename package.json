@@ -1,10 +1,10 @@
 {
-  "name": "React-Components-Library-Starter-Kit",
+  "name": "hack-component-library",
   "version": "1.0.4",
-  "description": "Boilerplate to building a React components library for NPM",
+  "description": "A component library for QHacks websites",
   "main": "dist/main.js",
-  "repository": "https://github.com/hqro/React-Components-Library-Starter-Kit.git",
-  "author": "Guillaume L. <glarivie@student.42.fr>",
+  "repository": "https://github.com/QHacks/HACK-component-library.git",
+  "author": "Ross H. <ross@rosshill.ca>",
   "license": "MIT",
   "private": false,
   "scripts": {
